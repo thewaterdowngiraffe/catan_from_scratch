@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1590021975 source:c:\users\kandr_58v7rrf\onedrive\desktop\coding\wip\catan\catan.cpp
+	<stdio.h>
+	<conio.h>
+	<graphics.h>
+	<dos.h>
+	<windows.h>
+	<time.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	<imagehlp.h>
+
